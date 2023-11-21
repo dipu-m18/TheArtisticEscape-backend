@@ -1,0 +1,81 @@
+08-Nov-2023 21:54:19 [main] INFO org.springframework.boot.StartupInfoLogger- Starting TheArtisticEscapeApplication using Java 17.0.1 with PID 15144 (D:\Personal_Projects\TheArtisticEscape\backend\app\target\classes started by Dipannita in D:\Personal_Projects\TheArtisticEscape\backend\app)
+08-Nov-2023 21:54:19 [main] DEBUG org.springframework.boot.StartupInfoLogger- Running with Spring Boot v3.1.5, Spring v6.0.13
+08-Nov-2023 21:54:19 [main] INFO org.springframework.boot.SpringApplication- No active profile set, falling back to 1 default profile: "default"
+08-Nov-2023 21:54:19 [main] INFO org.springframework.boot.StartupInfoLogger- Started TheArtisticEscapeApplication in 0.977 seconds (process running for 1.577)
+08-Nov-2023 21:54:19 [main] INFO in.theartisticescape.TheArtisticEscapeApplication- Logger
+08-Nov-2023 21:55:42 [main] INFO org.springframework.boot.StartupInfoLogger- Starting TheArtisticEscapeApplication using Java 17.0.1 with PID 11608 (D:\Personal_Projects\TheArtisticEscape\backend\app\target\classes started by Dipannita in D:\Personal_Projects\TheArtisticEscape\backend\app)
+08-Nov-2023 21:55:42 [main] DEBUG org.springframework.boot.StartupInfoLogger- Running with Spring Boot v3.1.5, Spring v6.0.13
+08-Nov-2023 21:55:42 [main] INFO org.springframework.boot.SpringApplication- No active profile set, falling back to 1 default profile: "default"
+08-Nov-2023 21:55:43 [main] INFO org.springframework.boot.StartupInfoLogger- Started TheArtisticEscapeApplication in 0.965 seconds (process running for 1.629)
+08-Nov-2023 21:55:43 [main] INFO in.theartisticescape.TheArtisticEscapeApplication- Logger
+08-Nov-2023 21:56:50 [main] INFO org.springframework.boot.StartupInfoLogger- Starting TheArtisticEscapeApplication using Java 17.0.1 with PID 19172 (D:\Personal_Projects\TheArtisticEscape\backend\app\target\classes started by Dipannita in D:\Personal_Projects\TheArtisticEscape\backend\app)
+08-Nov-2023 21:56:50 [main] DEBUG org.springframework.boot.StartupInfoLogger- Running with Spring Boot v3.1.5, Spring v6.0.13
+08-Nov-2023 21:56:50 [main] INFO org.springframework.boot.SpringApplication- No active profile set, falling back to 1 default profile: "default"
+08-Nov-2023 21:56:50 [main] INFO org.springframework.boot.StartupInfoLogger- Started TheArtisticEscapeApplication in 0.963 seconds (process running for 1.602)
+08-Nov-2023 21:56:50 [main] INFO in.theartisticescape.TheArtisticEscapeApplication- Logger
+08-Nov-2023 21:59:08 [main] INFO org.springframework.boot.StartupInfoLogger- Starting TheArtisticEscapeApplication using Java 17.0.1 with PID 10524 (D:\Personal_Projects\TheArtisticEscape\backend\app\target\classes started by Dipannita in D:\Personal_Projects\TheArtisticEscape\backend\app)
+08-Nov-2023 21:59:08 [main] DEBUG org.springframework.boot.StartupInfoLogger- Running with Spring Boot v3.1.5, Spring v6.0.13
+08-Nov-2023 21:59:08 [main] INFO org.springframework.boot.SpringApplication- No active profile set, falling back to 1 default profile: "default"
+08-Nov-2023 21:59:58 [main] INFO org.springframework.boot.StartupInfoLogger- Starting TheArtisticEscapeApplication using Java 17.0.1 with PID 20248 (D:\Personal_Projects\TheArtisticEscape\backend\app\target\classes started by Dipannita in D:\Personal_Projects\TheArtisticEscape\backend\app)
+08-Nov-2023 21:59:58 [main] DEBUG org.springframework.boot.StartupInfoLogger- Running with Spring Boot v3.1.5, Spring v6.0.13
+08-Nov-2023 21:59:58 [main] INFO org.springframework.boot.SpringApplication- No active profile set, falling back to 1 default profile: "default"
+08-Nov-2023 21:59:58 [main] INFO org.springframework.boot.StartupInfoLogger- Started TheArtisticEscapeApplication in 0.986 seconds (process running for 1.59)
+08-Nov-2023 21:59:58 [main] INFO in.theartisticescape.TheArtisticEscapeApplication- Logger
+08-Nov-2023 22:00:55 [main] INFO org.springframework.boot.StartupInfoLogger- Starting TheArtisticEscapeApplication using Java 17.0.1 with PID 736 (D:\Personal_Projects\TheArtisticEscape\backend\app\target\classes started by Dipannita in D:\Personal_Projects\TheArtisticEscape\backend\app)
+08-Nov-2023 22:00:55 [main] DEBUG org.springframework.boot.StartupInfoLogger- Running with Spring Boot v3.1.5, Spring v6.0.13
+08-Nov-2023 22:00:55 [main] INFO org.springframework.boot.SpringApplication- No active profile set, falling back to 1 default profile: "default"
+08-Nov-2023 22:00:55 [main] INFO org.springframework.boot.StartupInfoLogger- Started TheArtisticEscapeApplication in 1.02 seconds (process running for 1.608)
+08-Nov-2023 22:00:55 [main] INFO in.theartisticescape.TheArtisticEscapeApplication- Logger
+08-Nov-2023 22:02:02 [main] INFO org.springframework.boot.StartupInfoLogger- Starting TheArtisticEscapeApplication using Java 17.0.1 with PID 21380 (D:\Personal_Projects\TheArtisticEscape\backend\app\target\classes started by Dipannita in D:\Personal_Projects\TheArtisticEscape\backend\app)
+08-Nov-2023 22:02:02 [main] DEBUG org.springframework.boot.StartupInfoLogger- Running with Spring Boot v3.1.5, Spring v6.0.13
+08-Nov-2023 22:02:02 [main] INFO org.springframework.boot.SpringApplication- No active profile set, falling back to 1 default profile: "default"
+08-Nov-2023 22:02:02 [main] INFO org.springframework.boot.StartupInfoLogger- Started TheArtisticEscapeApplication in 0.972 seconds (process running for 1.593)
+08-Nov-2023 22:02:02 [main] INFO in.theartisticescape.TheArtisticEscapeApplication- Logger
+08-Nov-2023 22:02:21 [main] INFO org.springframework.boot.StartupInfoLogger- Starting TheArtisticEscapeApplication using Java 17.0.1 with PID 13328 (D:\Personal_Projects\TheArtisticEscape\backend\app\target\classes started by Dipannita in D:\Personal_Projects\TheArtisticEscape\backend\app)
+08-Nov-2023 22:02:21 [main] DEBUG org.springframework.boot.StartupInfoLogger- Running with Spring Boot v3.1.5, Spring v6.0.13
+08-Nov-2023 22:02:21 [main] INFO org.springframework.boot.SpringApplication- No active profile set, falling back to 1 default profile: "default"
+08-Nov-2023 22:02:21 [main] INFO org.springframework.boot.StartupInfoLogger- Started TheArtisticEscapeApplication in 0.973 seconds (process running for 1.557)
+08-Nov-2023 22:02:21 [main] INFO in.theartisticescape.TheArtisticEscapeApplication- Logger
+08-Nov-2023 22:02:21 [main] INFO in.theartisticescape.TheArtisticEscapeApplication- Logger
+08-Nov-2023 22:02:54 [main] INFO org.springframework.boot.StartupInfoLogger- Starting TheArtisticEscapeApplication using Java 17.0.1 with PID 18104 (D:\Personal_Projects\TheArtisticEscape\backend\app\target\classes started by Dipannita in D:\Personal_Projects\TheArtisticEscape\backend\app)
+08-Nov-2023 22:02:54 [main] DEBUG org.springframework.boot.StartupInfoLogger- Running with Spring Boot v3.1.5, Spring v6.0.13
+08-Nov-2023 22:02:54 [main] INFO org.springframework.boot.SpringApplication- No active profile set, falling back to 1 default profile: "default"
+08-Nov-2023 22:02:55 [main] INFO org.springframework.boot.StartupInfoLogger- Started TheArtisticEscapeApplication in 0.994 seconds (process running for 1.595)
+08-Nov-2023 22:02:55 [main] INFO in.theartisticescape.TheArtisticEscapeApplication- Logger
+08-Nov-2023 22:02:55 [main] INFO in.theartisticescape.TheArtisticEscapeApplication- Logger
+08-Nov-2023 22:08:21 pm [main] INFO org.springframework.boot.StartupInfoLogger- Starting TheArtisticEscapeApplication using Java 17.0.1 with PID 14332 (D:\Personal_Projects\TheArtisticEscape\backend\app\target\classes started by Dipannita in D:\Personal_Projects\TheArtisticEscape\backend\app)
+08-Nov-2023 22:08:21 pm [main] DEBUG org.springframework.boot.StartupInfoLogger- Running with Spring Boot v3.1.5, Spring v6.0.13
+08-Nov-2023 22:08:21 pm [main] INFO org.springframework.boot.SpringApplication- No active profile set, falling back to 1 default profile: "default"
+08-Nov-2023 22:08:22 pm [main] INFO org.springframework.boot.StartupInfoLogger- Started TheArtisticEscapeApplication in 0.978 seconds (process running for 1.663)
+08-Nov-2023 22:08:22 pm [main] INFO in.theartisticescape.TheArtisticEscapeApplication- Logger
+08-Nov-2023 22:08:22 pm [main] INFO in.theartisticescape.TheArtisticEscapeApplication- Logger
+08-Nov-2023 22:15:49 pm [main] INFO org.springframework.boot.StartupInfoLogger- Starting TheArtisticEscapeApplication using Java 17.0.1 with PID 10924 (D:\Personal_Projects\TheArtisticEscape\backend\app\target\classes started by Dipannita in D:\Personal_Projects\TheArtisticEscape\backend\app)
+08-Nov-2023 22:15:49 pm [main] DEBUG org.springframework.boot.StartupInfoLogger- Running with Spring Boot v3.1.5, Spring v6.0.13
+08-Nov-2023 22:15:49 pm [main] INFO org.springframework.boot.SpringApplication- No active profile set, falling back to 1 default profile: "default"
+08-Nov-2023 22:15:50 pm [main] INFO org.springframework.boot.StartupInfoLogger- Started TheArtisticEscapeApplication in 1.073 seconds (process running for 1.807)
+08-Nov-2023 22:15:50 pm [main] INFO in.theartisticescape.TheArtisticEscapeApplication- Logger
+08-Nov-2023 22:15:50 pm [main] INFO in.theartisticescape.TheArtisticEscapeApplication- Logger
+08-Nov-2023 22:17:25 pm [main] INFO org.springframework.boot.StartupInfoLogger- Starting TheArtisticEscapeApplication using Java 17.0.1 with PID 17868 (D:\Personal_Projects\TheArtisticEscape\backend\app\target\classes started by Dipannita in D:\Personal_Projects\TheArtisticEscape\backend\app)
+08-Nov-2023 22:17:25 pm [main] DEBUG org.springframework.boot.StartupInfoLogger- Running with Spring Boot v3.1.5, Spring v6.0.13
+08-Nov-2023 22:17:25 pm [main] INFO org.springframework.boot.SpringApplication- No active profile set, falling back to 1 default profile: "default"
+08-Nov-2023 22:17:26 pm [main] INFO org.springframework.boot.StartupInfoLogger- Started TheArtisticEscapeApplication in 0.972 seconds (process running for 1.564)
+08-Nov-2023 22:17:26 pm [main] INFO in.theartisticescape.TheArtisticEscapeApplication- Logger
+08-Nov-2023 22:17:26 pm [main] INFO in.theartisticescape.TheArtisticEscapeApplication- Logger
+08-Nov-2023 22:18:29 pm [main] INFO org.springframework.boot.StartupInfoLogger- Starting TheArtisticEscapeApplication using Java 17.0.1 with PID 12868 (D:\Personal_Projects\TheArtisticEscape\backend\app\target\classes started by Dipannita in D:\Personal_Projects\TheArtisticEscape\backend\app)
+08-Nov-2023 22:18:29 pm [main] DEBUG org.springframework.boot.StartupInfoLogger- Running with Spring Boot v3.1.5, Spring v6.0.13
+08-Nov-2023 22:18:29 pm [main] INFO org.springframework.boot.SpringApplication- No active profile set, falling back to 1 default profile: "default"
+08-Nov-2023 22:18:29 pm [main] INFO org.springframework.boot.StartupInfoLogger- Started TheArtisticEscapeApplication in 0.985 seconds (process running for 1.609)
+08-Nov-2023 22:18:29 pm [main] INFO in.theartisticescape.TheArtisticEscapeApplication- Logger
+08-Nov-2023 22:18:29 pm [main] INFO in.theartisticescape.TheArtisticEscapeApplication- Logger
+08-Nov-2023 22:21:00 pm [main] INFO org.springframework.boot.StartupInfoLogger- Starting TheArtisticEscapeApplication using Java 17.0.1 with PID 11820 (D:\Personal_Projects\TheArtisticEscape\backend\app\target\classes started by Dipannita in D:\Personal_Projects\TheArtisticEscape\backend\app)
+08-Nov-2023 22:21:00 pm [main] DEBUG org.springframework.boot.StartupInfoLogger- Running with Spring Boot v3.1.5, Spring v6.0.13
+08-Nov-2023 22:21:00 pm [main] INFO org.springframework.boot.SpringApplication- No active profile set, falling back to 1 default profile: "default"
+08-Nov-2023 22:21:01 pm [main] INFO org.springframework.boot.StartupInfoLogger- Started TheArtisticEscapeApplication in 0.978 seconds (process running for 1.586)
+08-Nov-2023 22:21:01 pm [main] INFO in.theartisticescape.TheArtisticEscapeApplication- Logger
+08-Nov-2023 22:21:01 pm [main] INFO in.theartisticescape.TheArtisticEscapeApplication- Logger
+09-Nov-2023 06:26:55 am [main] INFO org.springframework.boot.StartupInfoLogger- Starting TheArtisticEscapeApplication using Java 17.0.1 with PID 6912 (D:\Personal_Projects\TheArtisticEscape\backend\app\target\classes started by Dipannita in D:\Personal_Projects\TheArtisticEscape\backend\app)
+09-Nov-2023 06:26:55 am [main] DEBUG org.springframework.boot.StartupInfoLogger- Running with Spring Boot v3.1.5, Spring v6.0.13
+09-Nov-2023 06:26:55 am [main] INFO org.springframework.boot.SpringApplication- No active profile set, falling back to 1 default profile: "default"
+09-Nov-2023 06:26:56 am [main] INFO org.springframework.boot.StartupInfoLogger- Started TheArtisticEscapeApplication in 1.223 seconds (process running for 1.949)
+09-Nov-2023 06:26:56 am [main] INFO in.theartisticescape.TheArtisticEscapeApplication- Logger
+09-Nov-2023 06:26:56 am [main] INFO in.theartisticescape.TheArtisticEscapeApplication- Logger

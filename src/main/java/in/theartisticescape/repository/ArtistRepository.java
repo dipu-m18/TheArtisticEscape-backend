@@ -10,7 +10,7 @@ import in.theartisticescape.entity.ArtistEntity;
 import in.theartisticescape.model.Art;
 import in.theartisticescape.model.Artist;
 
-public interface ArtistRepository extends CrudRepository<ArtistEntity, Integer> {
+public interface ArtistRepository extends CrudRepository<ArtistEntity, String> {
 
-	List<Art> findListOfArtsByEmailId(@Param("emailId") String artistEmailId);
+	
 }
